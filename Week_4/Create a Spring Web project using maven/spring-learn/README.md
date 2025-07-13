@@ -12,6 +12,7 @@
 8.	Import the project in Eclipse "File > Import > Maven > Existing Maven Projects > Click Browse and select extracted folder > Finish"
 9.	Include logs to verify if main() method of SpringLearnApplication.
 10.	Run the SpringLearnApplication class.
+    
     ---
 
 ## SME to walk through the following aspects related to the project created:
