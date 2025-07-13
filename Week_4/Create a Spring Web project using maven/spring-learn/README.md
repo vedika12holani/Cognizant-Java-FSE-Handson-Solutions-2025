@@ -1,6 +1,6 @@
-Create a Spring Web Project using Maven 
+# Create a Spring Web Project using Maven 
 
-Follow steps below to create a project: 
+## Follow steps below to create a project: 
  
 1.	Go to https://start.spring.io/
 2.	Change Group as “com.cognizant”
@@ -12,8 +12,9 @@ Follow steps below to create a project:
 8.	Import the project in Eclipse "File > Import > Maven > Existing Maven Projects > Click Browse and select extracted folder > Finish"
 9.	Include logs to verify if main() method of SpringLearnApplication.
 10.	Run the SpringLearnApplication class.
+    ---
 
-SME to walk through the following aspects related to the project created:
+## SME to walk through the following aspects related to the project created:
 1.	src/main/java - Folder with application code
 2.	src/main/resources - Folder for application configuration
 3.	src/test/java - Folder with code for testing the application
