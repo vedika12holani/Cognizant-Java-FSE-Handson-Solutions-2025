@@ -29,6 +29,7 @@ Try the URL http://localhost:8083/hello in both chrome browser and postman.
 
 ## SME to explain the following aspects:
 •	In network tab of developer tools show the HTTP header details received
+
 •	In postman click on "Headers" tab to view the HTTP header details received
  
 
