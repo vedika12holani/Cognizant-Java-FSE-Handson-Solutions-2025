@@ -23,7 +23,7 @@ Write a REST service in the **spring-learn** application created earlier, that r
   ```
 -**Sample Response:** `Hello World!!` 
 
-## IMPORTANT NOTE: Don't forget to include start and end log in the sayHello() method.
+IMPORTANT NOTE: Don't forget to include start and end log in the sayHello() method.
 
 Try the URL http://localhost:8083/hello in both chrome browser and postman.
 
