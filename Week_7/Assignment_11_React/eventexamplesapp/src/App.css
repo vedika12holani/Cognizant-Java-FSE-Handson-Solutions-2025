@@ -1,0 +1,16 @@
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+input, textarea {
+  margin: 5px;
+  padding: 5px;
+  font-size: 14px;
+}
